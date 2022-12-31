@@ -40,11 +40,11 @@ if (userActive) {
 
   // Bắt sự kiện khi nhấn phím Enter
   // -------------------------------
-  document.addEventListener("keydown", function (e) {
-    if (e.key === "Enter") {
-      find();
-    }
-  });
+  //document.addEventListener("keydown", function (e) {
+    //if (e.key === "Enter") {
+   //   find();
+   // }
+  //});
 
   // Hàm lấy dữ liệu tin tức được tìm kiếm với từ khoá nhập vào
   // ----------------------------------------------------------
